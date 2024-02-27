@@ -1,9 +1,3 @@
 - STEP-1
-- php artisan serve
-- php artisan optimize:clear
-- php artisan view:route
-- php artisan list:route
-- php artisan optimize
-- php artisan route:clear
-- php artisan make:model
+- .....
 - 
